@@ -15,5 +15,3 @@ Workshops: Creative Writing, Poetry :sparkles:
         {% include figure.html path="assets/img/IMG_3192.jpg" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
     </div>
 </div>
-
-{% include figure.html path="assets/img/IMG_0617.jpg" class="img-fluid rounded z-depth-1" width=350 %}
