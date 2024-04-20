@@ -6,6 +6,7 @@ description: Volunteer funs
 tags: formatting links
 inline: true
 categories: travel
+thumbnail: assets/img/IMG_0972.jpg
 ---
 Volunteer events.
 
