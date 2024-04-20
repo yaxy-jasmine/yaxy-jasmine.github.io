@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Here</a>. in California.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ma_jolie.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3725 Ohio Ohio Complex Building IV</p>
-    <p>1535264 Highway Grande Ohio</p>
-    <p>Charleston, Ohio 1215351362636</p>
+    <p>Cupertino, CA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,5 +17,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-AAAAAAAAARGHHHHHHHH
-"I am Mi, and he is Yu"
+Hi, this is me. :)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/writer.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
+    </div>
+</div>
+
+I'm a pianist. :no_good:
+I'm a dancer.
+I'm a writer.
+And I'm going to be a scientist! :robot:
+:smile:

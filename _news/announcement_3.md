@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-24 17:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :skull: :skull: :sparkle:
+Workshop: Creative Writing :sparkles: :smile:
+
+{% include figure.html path="assets/img/IMG_3192.jpg" class="img-fluid rounded z-depth-1" width=100 %}
