@@ -3,7 +3,6 @@ layout: page
 title: Mechanical EV Car
 description: Mechanical EV car
 img: assets/img/race_car.png
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
@@ -13,7 +12,7 @@ EV racing car!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/mechanic_car.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include video.html path="assets/video/mechanic_car.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
