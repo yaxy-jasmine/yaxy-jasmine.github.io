@@ -14,19 +14,19 @@ profile:
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, this is me. :)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=300 zoomable=true %}
+        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=250 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
+        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
+        {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
     </div>
 </div>
 
