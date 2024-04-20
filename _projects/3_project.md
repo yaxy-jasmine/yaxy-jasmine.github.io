@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Project 3
+title: Project 3: Mechanical car
 description: Mechanical EV car
 img: assets/img/race_car.png
 importance: 3
-category: learn 
+category: work
 ---
 
 EV racing car!

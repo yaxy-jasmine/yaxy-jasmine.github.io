@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: project 1: AI dance
 description: AI generated dance
 img: assets/img/dancer.png
 importance: 1
-category: learn
+category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
