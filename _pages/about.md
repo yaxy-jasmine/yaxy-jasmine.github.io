@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Here</a>. in California.
+subtitle: <a href='#'>Here</a>. Hi There.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 Hi, this is me. :)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=180 zoomable=true %}
+        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=220 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
