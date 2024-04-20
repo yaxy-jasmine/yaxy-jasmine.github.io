@@ -12,7 +12,7 @@ EV racing car!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/mechanic_car.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/mechanic_car.mp4" class="img-fluid rounded z-depth-1" width=200 controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
