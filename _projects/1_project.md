@@ -14,6 +14,14 @@ This is an example of AI generated dance with videos.
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/calmdown_dance.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/arduino_water.MP4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/mechanic_car.MOV" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+</div>
 </div>
 <div class="caption">
     An example of AI generated dance.
