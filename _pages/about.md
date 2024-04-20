@@ -6,7 +6,7 @@ subtitle: <a href='#'>Here</a>. Hi There.
 
 profile:
   align: right
-  image: IMG_0972.jpg
+  image: IMG_0972_1.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cupertino, CA</p>
@@ -21,13 +21,13 @@ social: false # includes social icons at the bottom of the page
 Hi, this is me. :)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=250 zoomable=true %}
+        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=80 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+        {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=80 zoomable=true %}
     </div>
 </div>
 
