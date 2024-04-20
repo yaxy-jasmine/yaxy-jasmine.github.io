@@ -1,16 +1,29 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Mechanical EV Car
+description: Mechanical EV car
+img: assets/img/race_car.png
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+EV racing car!
+{% include figure.html path="assets/img/race_car.png" class="img-fluid rounded z-depth-1" width=200 %}
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/mechanic_car.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+<div class="caption">
+    Racing car!
+</div>
+
+Have fun! :smile:
+
+
+=====
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
