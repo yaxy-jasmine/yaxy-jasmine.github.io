@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: project: AI generated dance
 description: AI generated dance
 img: assets/img/dancer.png
 importance: 1

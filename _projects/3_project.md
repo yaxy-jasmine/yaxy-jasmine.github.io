@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mechanical EV Car
+title: Project: Mechanical EV Car
 description: Mechanical EV car
 img: assets/img/race_car.png
 importance: 3
