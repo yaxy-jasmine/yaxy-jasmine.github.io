@@ -4,7 +4,7 @@ title: project 1
 description: AI generated dance
 img: assets/img/dancer.png
 importance: 1
-category: work
+category: fun 
 ---
 
 AI generated dance with videos.
