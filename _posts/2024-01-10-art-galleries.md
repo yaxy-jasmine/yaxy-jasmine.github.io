@@ -5,6 +5,7 @@ date:   2024-01-01 21:51:16
 description: some pictures from the museum.
 tags: formatting links
 categories: travel
+thumbnail: assets/img/IMG_0666.jpg
 ---
 Art Galleries.
 

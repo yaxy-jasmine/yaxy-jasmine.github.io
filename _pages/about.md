@@ -24,7 +24,7 @@ Hi, this is me. :)
         {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=80 zoomable=true %}
+        {% include figure.html path="assets/img/music_piano.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/dancer.png" class="img-fluid rounded z-depth-1" width=80 zoomable=true %}

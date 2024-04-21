@@ -2,11 +2,12 @@
 layout: post
 title:  Travels
 date:   2024-01-10 20:51:16
-description: some pictures from travel.
+description: travel funs.
 tags: formatting links
 categories: travel
+thumbnail: assets/img/IMG_0870.jpg
 ---
-Art Galleries.
+Travels.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

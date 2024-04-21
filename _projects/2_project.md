@@ -13,7 +13,7 @@ An arduino device to remind you drinking warter, every 10 seconds :no_good:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/arduino_water.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include video.html path="assets/video/arduino_water1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
