@@ -108,6 +108,21 @@
           </div>
         </div>
       </nav>
+{% if site.enable_header_image %}
+      <div>
+        <style>
+            p {
+                background-image: url('assets/img/tahoe3.png')
+            }
+        </style>
+      </div>
+      <!-- header image -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+{%- endif %}
 {% if site.enable_progressbar %}
       <!-- Scrolling Progress Bar -->
       <progress id="progress" value="0">
