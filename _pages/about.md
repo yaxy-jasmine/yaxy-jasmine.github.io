@@ -6,7 +6,7 @@ subtitle: <a href='#'>Here</a>. Hi There.
 
 profile:
   align: right
-  image: IMG_0972_1.png
+  image: IMG_0972.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cupertino, CA</p>
