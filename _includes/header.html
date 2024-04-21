@@ -108,21 +108,6 @@
           </div>
         </div>
       </nav>
-{% if site.enable_header_image %}
-      <div>
-        <style>
-            p {
-                background-image: url('assets/img/tahoe3.png')
-            }
-        </style>
-      </div>
-      <!-- header image -->
-      <progress id="progress" value="0">
-        <div class="progress-container">
-          <span class="progress-bar"></span>
-        </div>
-      </progress>
-{%- endif %}
 {% if site.enable_progressbar %}
       <!-- Scrolling Progress Bar -->
       <progress id="progress" value="0">
@@ -130,5 +115,11 @@
           <span class="progress-bar"></span>
         </div>
       </progress>
+
+{%- endif %}
+{% if site.enable_header_image %}
+      <!-- header image -->
+      <div style="background-image: url(assets/img/tahoe3.png);
+      background-size: cover; width: 100%; height: 475px; " >sky is the limit.</div>
 {%- endif %}
     </header>
