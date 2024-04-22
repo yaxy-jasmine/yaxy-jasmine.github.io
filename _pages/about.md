@@ -6,7 +6,7 @@ subtitle: <a href='#'>Yaxy here</a>. Hi There.
 
 profile:
   align: right
-  image: IMG_0972_1.jpg
+  image: IMG_0972_cut.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cupertino, CA</p>
