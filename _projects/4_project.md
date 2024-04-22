@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Simple electrical magnetic train
 description: Simple Electrical Magnetic Train
 img: assets/img/train_draw1.png
 importance: 3

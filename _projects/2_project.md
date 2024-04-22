@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
+title: Arduino reminder
 description: An arduino device as reminder for drinking water
 img: assets/img/programmer1.png
-importance: 2
+importance: 3
 category: fun 
 giscus_comments: true
 ---
