@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Hi, this is me. :)
-<div class="row mt-3">
+<div class="row mt-3 mb-3 justify-content-start">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
     </div>
