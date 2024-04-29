@@ -55,7 +55,7 @@ I like teaching :smile:. Here're the recordings of some Music theory lessons tha
     Level5 up music theory lessons
 </div>
 
-<div class="Music Theory Lessons Level5">
+<div class="Music Theory Lessons Level5 up">
     <table>
     <tr>
         <th> Name </th>
