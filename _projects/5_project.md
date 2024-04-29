@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jasmine's Music Theory Lessons
-description: Music theory lessons for beginners.
+description: Music theory lessons I gave for beginners.
 img: assets/img/music.png
 importance: 2
 category: work
@@ -88,16 +88,16 @@ I like teaching :smile:. Here're the recordings of some Music theory lessons tha
     </tr>
     <tr>
       <td class="name"><a href="https://www.youtube.com/watch?v=qNXERJ5qvm8&t=679s"> Day 5 (from 679s) </a></td>
-      <td><div class="col-sm mt-0 mb-0 mt-md-0">{% include video.html path="https://www.youtube.com/embed?qNXERJ5qvm8" class="img-fluid rounded z-depth-1 width=100 autoplay=false" %}</div></td>
+      <td><div class="col-sm mt-0 mb-0 mt-md-0">{% include video.html path="https://www.youtube.com/embed/qNXERJ5qvm8" class="img-fluid rounded z-depth-1 width=100 autoplay=false" %}</div></td>
     </tr>
     </table>
 </div>
 
+<div class="clearfix"> </div>
 
 it was fun! :smile:
 
 {% include figure.html path="assets/img/music.png" class="img-fluid rounded z-depth-1" width=200 %}
-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
