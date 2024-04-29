@@ -9,12 +9,12 @@ category: work
 
 I like teaching :smile:. Here're the recordings of some Music theory lessons that I gave for beginners.
 
-<div class="caption">
-    Beginner music theory lessons
-</div>
-
 <div class="Music Theory Lessons Beginner">
     <table>
+    <tr>
+        <th> </th>
+        <th> <b> Beginner music theory lessons </b> </th>
+    </tr>
     <tr>
         <th> Name </th>
         <th> Video </th>
@@ -46,17 +46,10 @@ I like teaching :smile:. Here're the recordings of some Music theory lessons tha
       <td class="name"><a href="https://www.youtube.com/embed/MhsX68_mN0g"> Day 5 </a></td>
       <td><div class="col-sm mt-0 mb-0 mt-md-0">{% include video.html path="https://www.youtube.com/embed/MhsX68_mN0g" class="img-fluid rounded z-depth-1 width=100 autoplay=false" %} </div></td>
     </tr>
-    </table>
-</div>
-
-<div></div>
-
-<div class="caption">
-    Level5 up music theory lessons
-</div>
-
-<div class="Music Theory Lessons Level5 up">
-    <table>
+    <tr>
+        <th> </th>
+        <th> <b> Level-5 up Music Theory Lessons </b> </th>
+    </tr>
     <tr>
         <th> Name </th>
         <th> Video </th>
@@ -124,7 +117,7 @@ it was fun! :smile:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/gj4BJskxEMQ&t=493s" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/watch?v=gj4BJskxEMQ&t=493s" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://www.youtube.com/embed/b0f_KaD894M" class="img-fluid rounded z-depth-1" %}
@@ -136,7 +129,7 @@ it was fun! :smile:
         {% include video.html path="https://www.youtube.com/embed/aQf0liZLG6A" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/qNXERJ5qvm8&t=611s" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="https://www.youtube.com/watch?v=qNXERJ5qvm8&t=611s" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
