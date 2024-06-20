@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  a post with formatting and links
+title:  a sample post
 date:   2024-06-19 16:40:16
 description: format of md post
 tags: formatting links
@@ -15,15 +15,13 @@ A simple way to add a new post from web (the alternate way is to use git/editor 
 2. If you don't want it to be publicly visible, set published as false above. (others can still see it if you give them the link, but it's not visible from web).
 3. commit the changes, it should appear on the web in 1 minute or so.
 
-The post can be visited with the filename, but not visible from the list of posts, i.e.
-<br/>
+The post can be visited with the filename, but not visible from the list of posts, i.e. <br/>
 [sample-post](https://yaxy-jasmine.github.io/blog/2024/sample-post/)
 
+<br/><br/>
 
-<br/>
-<br/>
 ## remove all those not needed.
-
+<br/>
 ### refer to markdown quick start
 [Quick-Start-Markdown](https://github.com/jorditorresBCN/Quick-Start/blob/master/Quick-Start-Markdown.md)
 also some basic html can be used, i.e. br above is used to add empty lines.
