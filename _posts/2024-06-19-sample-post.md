@@ -12,7 +12,7 @@ hidden: true
 <br/>
 A simple way to add a new post from web (the alternate way is to use git/editor from laptop).
 1. copy contents of this file.
-2. create a new file, with name of date and post name.
+2. create a new file under _posts/ directory, with name of date and post name.
 3. paste contents of this file into new file, and update the titles/date etc. (delete those you don't need).
 4. If you don't want it to be publicly visible, set published as false above. (others can still see it if you give them the link, but it's not visible from web).
 5. commit the changes, it should appear on the web in 1 minute or so.
