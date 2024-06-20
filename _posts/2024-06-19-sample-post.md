@@ -11,15 +11,18 @@ hidden: true
 
 ### Add your title here
 A simple way to add a new post from web (the alternate way is to use git/editor from laptop).
-1) duplicate this file as sample, and put your blog contents in the new file. Update the titles/date etc. (those you don't need).
-2) If you don't want it to be publicly visible, set published as false above. (others can still see it if you give them the link, but it's not visible from web).
-3) commit the changes, it should appear on the web in 1 minute or so.
+1. duplicate this file as sample, and put your blog contents in the new file. Update the titles/date etc. (those you don't need).
+2. If you don't want it to be publicly visible, set published as false above. (others can still see it if you give them the link, but it's not visible from web).
+3. commit the changes, it should appear on the web in 1 minute or so.
 
 The post can be visited with the filename, but not visible from the list of posts, i.e.
 https://yaxy-jasmine.github.io/blog/2024/sample-post/
 
 
 ## remove all those not needed.
+
+### refer to markdown quick start
+https://github.com/jorditorresBCN/Quick-Start/blob/master/Quick-Start-Markdown.md
 
 ### you can add emojis
 :smile: :cat:
