@@ -5,7 +5,7 @@ date:   2024-06-19 16:40:16
 description: format of md post
 tags: formatting links
 categories: sample-posts
-published: false
+hidden: true
 ---
 
 ### black title
