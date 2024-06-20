@@ -16,6 +16,7 @@ A simple way to add a new post from web (the alternate way is to use git/editor 
 3. paste contents of this file into new file, and update the titles/date etc. (delete those you don't need).
 4. If you don't want it to be publicly visible, set published as false above. (others can still see it if you give them the link, but it's not visible from web).
 5. commit the changes, it should appear on the web in 1 minute or so.
+6. if you have any pictures, upload it to assets/img (or create your own folder) and add a link as example below.
 
 The post can be visited with the filename, but not visible from the list of posts, i.e. <br/>
 [sample-post](https://yaxy-jasmine.github.io/blog/2024/sample-post/)
@@ -33,7 +34,9 @@ also some basic html can be used, i.e. br above is used to add empty lines.
 
 ### to show pictures (which was already uploaded to assets/img/):
 {% include figure.html path="assets/img/IMG_2676.jpg" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
+<br/>
 {% include figure.html path="assets/img/IMG_2672.jpg" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
+<br/>
 Stary Stary Night, meet with Van Gogh.:smile:
 
 
