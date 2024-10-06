@@ -187,7 +187,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 7 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -268,7 +268,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['writing', 'travel', 'volunteer', 'art', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_categories: ['writing'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
