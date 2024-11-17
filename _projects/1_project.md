@@ -15,6 +15,12 @@ AI generated dance with videos.
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/calmdown_dance.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/calm_dance4.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/happy_dance500.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 </div>
 <div class="caption">
     This is an AI generated editable dance clip!
